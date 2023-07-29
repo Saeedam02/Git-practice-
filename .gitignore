@@ -1,0 +1,10 @@
+*.env 
+*.db 
+if we commit some files, we can't ignore them. we must delete them after that we can ignore them.
+when we want to ignore a directory : scr/
+with empty * we can ignore all files
+
+
+*.log
+!important.log
+this code will be ignore all files wilt .log except important.log
