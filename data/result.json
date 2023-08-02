@@ -1,0 +1,4832 @@
+{
+ "name": "MiladAghazade",
+ "type": "personal_chat",
+ "id": 97909706,
+ "messages": [
+  {
+   "id": 405033,
+   "type": "message",
+   "date": "2022-09-14T16:39:45",
+   "date_unixtime": "1663157385",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "آقا سلام",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "آقا سلام"
+    }
+   ]
+  },
+  {
+   "id": 405034,
+   "type": "message",
+   "date": "2022-09-14T16:40:03",
+   "date_unixtime": "1663157403",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "دهنتون سرویس تخت پایینا رو زود رفتین گرفتین😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "دهنتون سرویس تخت پایینا رو زود رفتین گرفتین😂"
+    }
+   ]
+  },
+  {
+   "id": 405035,
+   "type": "message",
+   "date": "2022-09-14T16:40:12",
+   "date_unixtime": "1663157412",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "آقا بچه کجایی؟",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "آقا بچه کجایی؟"
+    }
+   ]
+  },
+  {
+   "id": 405039,
+   "type": "message",
+   "date": "2022-09-14T17:16:54",
+   "date_unixtime": "1663159614",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "آقا یواداشونان سوروشدوم\nددی میانالیسان خوشبختم\nمن ده بینابلی\nاوبیری یولداشیمیزدا بستان آباددی",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "آقا یواداشونان سوروشدوم\nددی میانالیسان خوشبختم\nمن ده بینابلی\nاوبیری یولداشیمیزدا بستان آباددی"
+    }
+   ]
+  },
+  {
+   "id": 405040,
+   "type": "message",
+   "date": "2022-09-14T17:25:53",
+   "date_unixtime": "1663160153",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "سلام سلام",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سلام سلام"
+    }
+   ]
+  },
+  {
+   "id": 405041,
+   "type": "message",
+   "date": "2022-09-14T17:26:14",
+   "date_unixtime": "1663160174",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "reply_to_message_id": 405034,
+   "text": "🤣🤣منی گورسون بیلرسن نیه اورانی توتمیشام🤣🤣",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🤣🤣منی گورسون بیلرسن نیه اورانی توتمیشام🤣🤣"
+    }
+   ]
+  },
+  {
+   "id": 405042,
+   "type": "message",
+   "date": "2022-09-14T17:26:41",
+   "date_unixtime": "1663160201",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "reply_to_message_id": 405039,
+   "text": "به به به کفدی هامی ترک عشق اولسون😍😍😍😍😍😍😍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "به به به کفدی هامی ترک عشق اولسون😍😍😍😍😍😍😍"
+    }
+   ]
+  },
+  {
+   "id": 405043,
+   "type": "message",
+   "date": "2022-09-14T17:26:53",
+   "date_unixtime": "1663160213",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "چوخ خوشبختم کیشی",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "چوخ خوشبختم کیشی"
+    }
+   ]
+  },
+  {
+   "id": 405044,
+   "type": "message",
+   "date": "2022-09-14T17:26:58",
+   "date_unixtime": "1663160218",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "ناواخ گدجکسن اتاقا؟",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ناواخ گدجکسن اتاقا؟"
+    }
+   ]
+  },
+  {
+   "id": 405046,
+   "type": "message",
+   "date": "2022-09-14T17:36:31",
+   "date_unixtime": "1663160791",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "reply_to_message_id": 405044,
+   "text": "بیون گجه شاید وسایلی گورام\nگلمقیم کامل بیلمیرم دقیق صاباح زاد شاید",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "بیون گجه شاید وسایلی گورام\nگلمقیم کامل بیلمیرم دقیق صاباح زاد شاید"
+    }
+   ]
+  },
+  {
+   "id": 405047,
+   "type": "message",
+   "date": "2022-09-14T17:36:39",
+   "date_unixtime": "1663160799",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "reply_to_message_id": 405042,
+   "text": "😁😁😍👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "😁😁😍👍"
+    }
+   ]
+  },
+  {
+   "id": 405048,
+   "type": "message",
+   "date": "2022-09-14T18:00:28",
+   "date_unixtime": "1663162228",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "reply_to_message_id": 405046,
+   "text": "اهان گوروشریخ گلن هفته",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "اهان گوروشریخ گلن هفته"
+    }
+   ]
+  },
+  {
+   "id": 405369,
+   "type": "message",
+   "date": "2022-09-20T19:05:03",
+   "date_unixtime": "1663684503",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "سلام حجی",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سلام حجی"
+    }
+   ]
+  },
+  {
+   "id": 405370,
+   "type": "message",
+   "date": "2022-09-20T19:05:11",
+   "date_unixtime": "1663684511",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "حاجی امشب میای؟",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "حاجی امشب میای؟"
+    }
+   ]
+  },
+  {
+   "id": 405371,
+   "type": "message",
+   "date": "2022-09-20T19:05:17",
+   "date_unixtime": "1663684517",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "سلام کیشی",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سلام کیشی"
+    }
+   ]
+  },
+  {
+   "id": 405372,
+   "type": "message",
+   "date": "2022-09-20T19:05:28",
+   "date_unixtime": "1663684528",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "یوخ متاسفانه ایشیم حل اولمیب",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "یوخ متاسفانه ایشیم حل اولمیب"
+    }
+   ]
+  },
+  {
+   "id": 405373,
+   "type": "message",
+   "date": "2022-09-20T19:05:39",
+   "date_unixtime": "1663684539",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "من رفیقم اومده",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "من رفیقم اومده"
+    }
+   ]
+  },
+  {
+   "id": 405374,
+   "type": "message",
+   "date": "2022-09-20T19:05:47",
+   "date_unixtime": "1663684547",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "می‌تونم شامتو بدم اون؟",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "می‌تونم شامتو بدم اون؟"
+    }
+   ]
+  },
+  {
+   "id": 405375,
+   "type": "message",
+   "date": "2022-09-20T19:05:52",
+   "date_unixtime": "1663684552",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "اره حتما",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "اره حتما"
+    }
+   ]
+  },
+  {
+   "id": 405376,
+   "type": "message",
+   "date": "2022-09-20T19:06:01",
+   "date_unixtime": "1663684561",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "401123125\n0431",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "401123125\n0431"
+    }
+   ]
+  },
+  {
+   "id": 405377,
+   "type": "message",
+   "date": "2022-09-20T19:06:03",
+   "date_unixtime": "1663684563",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "دمت گرم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "دمت گرم"
+    }
+   ]
+  },
+  {
+   "id": 405378,
+   "type": "message",
+   "date": "2022-09-20T19:06:16",
+   "date_unixtime": "1663684576",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "گرفتیم حاجی روزای قبلیتم تو یخچاله",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "گرفتیم حاجی روزای قبلیتم تو یخچاله"
+    }
+   ]
+  },
+  {
+   "id": 405379,
+   "type": "message",
+   "date": "2022-09-20T19:06:27",
+   "date_unixtime": "1663684587",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "راستی شام رو میارن خوابگاه؟",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "راستی شام رو میارن خوابگاه؟"
+    }
+   ]
+  },
+  {
+   "id": 405380,
+   "type": "message",
+   "date": "2022-09-20T19:06:33",
+   "date_unixtime": "1663684593",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "آره",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "آره"
+    }
+   ]
+  },
+  {
+   "id": 405381,
+   "type": "message",
+   "date": "2022-09-20T19:06:45",
+   "date_unixtime": "1663684605",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "reply_to_message_id": 405378,
+   "text": "دستتون درد نکنه\nاونا رو بخورینا نزارین بمونه میخوایم چیکار",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "دستتون درد نکنه\nاونا رو بخورینا نزارین بمونه میخوایم چیکار"
+    }
+   ]
+  },
+  {
+   "id": 405382,
+   "type": "message",
+   "date": "2022-09-20T19:06:57",
+   "date_unixtime": "1663684617",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "reply_to_message_id": 405380,
+   "text": "خوبه پس",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "خوبه پس"
+    }
+   ]
+  },
+  {
+   "id": 405383,
+   "type": "message",
+   "date": "2022-09-20T19:07:01",
+   "date_unixtime": "1663684621",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "reply_to_message_id": 405381,
+   "text": "مونده والا",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "مونده والا"
+    }
+   ]
+  },
+  {
+   "id": 405384,
+   "type": "message",
+   "date": "2022-09-20T19:07:14",
+   "date_unixtime": "1663684634",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "اگه رفیقت شبو موند وسایلمو بزار زمین اونجا بخوابه",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "اگه رفیقت شبو موند وسایلمو بزار زمین اونجا بخوابه"
+    }
+   ]
+  },
+  {
+   "id": 405385,
+   "type": "message",
+   "date": "2022-09-20T19:07:20",
+   "date_unixtime": "1663684640",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "دمت گرم حالا امروزو میدم رفیقم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "دمت گرم حالا امروزو میدم رفیقم"
+    }
+   ]
+  },
+  {
+   "id": 405386,
+   "type": "message",
+   "date": "2022-09-20T19:07:32",
+   "date_unixtime": "1663684652",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "reply_to_message_id": 405384,
+   "text": "قربونت من دارم وسایل",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "قربونت من دارم وسایل"
+    }
+   ]
+  },
+  {
+   "id": 405387,
+   "type": "message",
+   "date": "2022-09-20T19:08:07",
+   "date_unixtime": "1663684687",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "reply_to_message_id": 405385,
+   "text": "تعارف نکنین گشنه بودین بخورین",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "تعارف نکنین گشنه بودین بخورین"
+    }
+   ]
+  },
+  {
+   "id": 405388,
+   "type": "message",
+   "date": "2022-09-20T19:08:15",
+   "date_unixtime": "1663684695",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "reply_to_message_id": 405386,
+   "text": "حله باز کم بود بردار",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "حله باز کم بود بردار"
+    }
+   ]
+  },
+  {
+   "id": 405389,
+   "type": "message",
+   "date": "2022-09-20T19:08:26",
+   "date_unixtime": "1663684706",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "قربونت",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "قربونت"
+    }
+   ]
+  },
+  {
+   "id": 405390,
+   "type": "message",
+   "date": "2022-09-20T19:08:29",
+   "date_unixtime": "1663684709",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "دمت گرم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "دمت گرم"
+    }
+   ]
+  },
+  {
+   "id": 405391,
+   "type": "message",
+   "date": "2022-09-20T19:08:36",
+   "date_unixtime": "1663684716",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "یاشا❤",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "یاشا❤"
+    }
+   ]
+  },
+  {
+   "id": 405392,
+   "type": "message",
+   "date": "2022-09-20T19:08:43",
+   "date_unixtime": "1663684723",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "❤️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "❤️"
+    }
+   ]
+  },
+  {
+   "id": 407382,
+   "type": "message",
+   "date": "2022-10-15T11:14:30",
+   "date_unixtime": "1665819870",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "autsport",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 904,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 407383,
+   "type": "message",
+   "date": "2022-10-15T11:14:30",
+   "date_unixtime": "1665819870",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "autsport",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 904,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 407384,
+   "type": "message",
+   "date": "2022-10-15T11:14:30",
+   "date_unixtime": "1665819870",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "autsport",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 904,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 407385,
+   "type": "message",
+   "date": "2022-10-15T11:14:30",
+   "date_unixtime": "1665819870",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "autsport",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 904,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 407386,
+   "type": "message",
+   "date": "2022-10-15T11:14:30",
+   "date_unixtime": "1665819870",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "autsport",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 904,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 407387,
+   "type": "message",
+   "date": "2022-10-15T11:14:30",
+   "date_unixtime": "1665819870",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "autsport",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 904,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 407528,
+   "type": "message",
+   "date": "2022-10-19T16:42:53",
+   "date_unixtime": "1666185173",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://divar.ir/v/gYyVoLEF?ref=android"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://divar.ir/v/gYyVoLEF?ref=android"
+    }
+   ]
+  },
+  {
+   "id": 407535,
+   "type": "message",
+   "date": "2022-10-19T17:14:51",
+   "date_unixtime": "1666187091",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "[LifeBeats] Mark Sixma vs. Armin van Buuren (Ft. Josh Cumbee)",
+   "title": "Sinfonia vs. Sunny Days vs. This Is A Test (Armin van Buuren Mashup)",
+   "mime_type": "audio/mp3",
+   "duration_seconds": 188,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 408162,
+   "type": "message",
+   "date": "2022-10-24T14:09:57",
+   "date_unixtime": "1666607997",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "توییتر دانشگاه تهرانی ها",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 14,
+   "width": 320,
+   "height": 584,
+   "text": [
+    "تجمع دانشجویان دانشگاه علم و صنعت روبروی سلف مرکزی این دانشگاه جهت ورود بدون تفکیک جنسیتی به سالن غذاخوری\nدوشنبه ۲ آبان ۱۴۰۱\n\n\n-Zia Nabavi-\n\n",
+    {
+     "type": "mention",
+     "text": "@uttweet"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "تجمع دانشجویان دانشگاه علم و صنعت روبروی سلف مرکزی این دانشگاه جهت ورود بدون تفکیک جنسیتی به سالن غذاخوری\nدوشنبه ۲ آبان ۱۴۰۱\n\n\n-Zia Nabavi-\n\n"
+    },
+    {
+     "type": "mention",
+     "text": "@uttweet"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 408303,
+   "type": "message",
+   "date": "2022-10-26T13:40:54",
+   "date_unixtime": "1666779054",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "مسیح علی‌نژاد",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 35,
+   "width": 352,
+   "height": 412,
+   "text": [
+    "این ویدئو اشک تو چشات جاری میکنە\n\nجمعیتی هزاران نفری با پای پیادە دارن خودشون رو میرسونن بە مزار مهسا \n\n",
+    {
+     "type": "hashtag",
+     "text": "#مهسا_امینی"
+    },
+    "\n",
+    {
+     "type": "text_link",
+     "text": "PanahiRafiq\n",
+     "href": "https://twitter.com/PanahiRafiq/status/1585180938652172288"
+    },
+    "🌐 ",
+    {
+     "type": "mention",
+     "text": "@masih_alinejad"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "این ویدئو اشک تو چشات جاری میکنە\n\nجمعیتی هزاران نفری با پای پیادە دارن خودشون رو میرسونن بە مزار مهسا \n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#مهسا_امینی"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "text_link",
+     "text": "PanahiRafiq\n",
+     "href": "https://twitter.com/PanahiRafiq/status/1585180938652172288"
+    },
+    {
+     "type": "plain",
+     "text": "🌐 "
+    },
+    {
+     "type": "mention",
+     "text": "@masih_alinejad"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 408343,
+   "type": "message",
+   "date": "2022-10-26T18:32:13",
+   "date_unixtime": "1666796533",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "forwarded_from": "خبرنامه امیرکبیر",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 22,
+   "width": 704,
+   "height": 1280,
+   "text": [
+    "‼️ ",
+    {
+     "type": "bold",
+     "text": "شلیک گارد ویژه به دانشگاه "
+    },
+    "\n\n◀️ از دقایقی پیش نیروهای یگان ویژه مستقر در پل حافظ با شلیک گاز اشک آور به بالای ساختمان انتظامات و حراست درب حافظ سعی در متفرق کردن دانشجویان دارد، از طرف دیگر نیروهای گارد مستقر در ورودی کوچه سعید به صورت مداوم گاز اشک آور به صحن داخل دانشگاه (۱ گلوله اشک آور) و همچنین دانشکده صنایع (۴ گلوله اشک آور) شلیک کردند.\n\n🔔 ",
+    {
+     "type": "bold",
+     "text": "گزارش لحظه‌ای دانشگاه را تا جای ممکن پوشش خواهیم داد!"
+    },
+    "\n\n✌️🏻 ",
+    {
+     "type": "underline",
+     "text": "اتحاد رمز پیروزی است؛ رسانه خودمانیم!"
+    },
+    "\n\n",
+    {
+     "type": "hashtag",
+     "text": "#رسانه_باشید"
+    },
+    " \n🆔 ",
+    {
+     "type": "mention",
+     "text": "@EEAUT"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "‼️ "
+    },
+    {
+     "type": "bold",
+     "text": "شلیک گارد ویژه به دانشگاه "
+    },
+    {
+     "type": "plain",
+     "text": "\n\n◀️ از دقایقی پیش نیروهای یگان ویژه مستقر در پل حافظ با شلیک گاز اشک آور به بالای ساختمان انتظامات و حراست درب حافظ سعی در متفرق کردن دانشجویان دارد، از طرف دیگر نیروهای گارد مستقر در ورودی کوچه سعید به صورت مداوم گاز اشک آور به صحن داخل دانشگاه (۱ گلوله اشک آور) و همچنین دانشکده صنایع (۴ گلوله اشک آور) شلیک کردند.\n\n🔔 "
+    },
+    {
+     "type": "bold",
+     "text": "گزارش لحظه‌ای دانشگاه را تا جای ممکن پوشش خواهیم داد!"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n✌️🏻 "
+    },
+    {
+     "type": "underline",
+     "text": "اتحاد رمز پیروزی است؛ رسانه خودمانیم!"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#رسانه_باشید"
+    },
+    {
+     "type": "plain",
+     "text": " \n🆔 "
+    },
+    {
+     "type": "mention",
+     "text": "@EEAUT"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 408344,
+   "type": "message",
+   "date": "2022-10-26T18:32:13",
+   "date_unixtime": "1666796533",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "forwarded_from": "خبرنامه امیرکبیر",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 19,
+   "width": 704,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 410064,
+   "type": "message",
+   "date": "2022-11-01T21:02:33",
+   "date_unixtime": "1667323953",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 410065,
+   "type": "message",
+   "date": "2022-11-01T21:02:33",
+   "date_unixtime": "1667323953",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 410066,
+   "type": "message",
+   "date": "2022-11-01T21:02:33",
+   "date_unixtime": "1667323953",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 410067,
+   "type": "message",
+   "date": "2022-11-01T21:02:33",
+   "date_unixtime": "1667323953",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 410068,
+   "type": "message",
+   "date": "2022-11-01T21:02:33",
+   "date_unixtime": "1667323953",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 410069,
+   "type": "message",
+   "date": "2022-11-01T21:02:33",
+   "date_unixtime": "1667323953",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 410070,
+   "type": "message",
+   "date": "2022-11-01T21:02:33",
+   "date_unixtime": "1667323953",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 410071,
+   "type": "message",
+   "date": "2022-11-01T21:02:33",
+   "date_unixtime": "1667323953",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 410072,
+   "type": "message",
+   "date": "2022-11-01T21:02:33",
+   "date_unixtime": "1667323953",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 410073,
+   "type": "message",
+   "date": "2022-11-01T21:02:33",
+   "date_unixtime": "1667323953",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 410074,
+   "type": "message",
+   "date": "2022-11-01T21:02:34",
+   "date_unixtime": "1667323954",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 410075,
+   "type": "message",
+   "date": "2022-11-01T21:02:34",
+   "date_unixtime": "1667323954",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 410076,
+   "type": "message",
+   "date": "2022-11-01T21:02:34",
+   "date_unixtime": "1667323954",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 410077,
+   "type": "message",
+   "date": "2022-11-01T21:02:34",
+   "date_unixtime": "1667323954",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 411174,
+   "type": "message",
+   "date": "2022-11-10T21:33:34",
+   "date_unixtime": "1668103414",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1080,
+   "height": 981,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 411546,
+   "type": "message",
+   "date": "2022-11-11T21:55:01",
+   "date_unixtime": "1668191101",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "video/mp4",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 411748,
+   "type": "message",
+   "date": "2022-11-13T01:24:08",
+   "date_unixtime": "1668290048",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "forwarded_from": "Ahangify",
+   "text": [
+    {
+     "type": "bold",
+     "text": "🔎 نتایج جستجو برای: Ferhad Bicare Sevgili Canan Olurem Senin Ucun"
+    },
+    "\n⚠️نتایج بهتر پایین لیست هستند. شماره 1 بهترین نتیجه است.\n",
+    {
+     "type": "pre",
+     "text": "ــ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ",
+     "language": ""
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "‎8. روبیکا - Sevgili Canan Olurem senin çun"
+    },
+    "\n🕒 03:32 - 💾 941KB \n📥 download: /dl_Bdo2j7l\n‎----------------------------------\n\n",
+    {
+     "type": "bold",
+     "text": "‎7. Ferhad Bicare Sevgili Canan 2021 - ıllı"
+    },
+    "\n🕒 03:36 - 💾 3.5MB \n📥 download: /dl_BMRq0Wz\n‎----------------------------------\n\n",
+    {
+     "type": "bold",
+     "text": "‎6. Sevgili Canan Olurem senin çun"
+    },
+    "\n🕒 03:32 - 💾 5.0MB - 📀 190\n📥 download: /dl_B3Xbj6M\n‎----------------------------------\n\n",
+    {
+     "type": "bold",
+     "text": "‎5. Sevgili Canan Olurem senin uçun"
+    },
+    "\n🕒 03:32 - 💾 4.9MB - 📀 190\n📥 download: /dl_B8Z45MX\n‎----------------------------------\n\n",
+    {
+     "type": "bold",
+     "text": "‎4. Ferhat Bicare-Sevgili Canan Olurem Senin..."
+    },
+    "\n🕒 03:52 - 💾 3.4MB \n📥 download: /dl_Bpz4qyP\n‎----------------------------------\n\n‎",
+    {
+     "type": "bold",
+     "text": "📱 مدیریت آسان موزیک های تلگرام"
+    },
+    "\n‎اپ آهنگیفای را امتحان کنید\n‎",
+    {
+     "type": "text_link",
+     "text": "دانلود اپلیکیشن",
+     "href": "https://play.google.com/store/apps/details?id=com.ahangify.music&referrer=utm_source%3Dtelegram%26utm_medium%3Dsearch_text%26utm_term%3Dsearch_results%26anid%3Dadmob"
+    },
+    "\n‎----------------------------------\n\n",
+    {
+     "type": "bold",
+     "text": "‎3. Ferhad Bicare - Sevgili Canan olurem sen..."
+    },
+    "\n🕒 03:49 - 💾 6.2MB - 📀 250\n📥 download: /dl_BPLk1E3\n‎----------------------------------\n\n",
+    {
+     "type": "bold",
+     "text": "‎2. Ferhad Bicare Sevgili Canan Olurem Senin..."
+    },
+    "\n🕒 03:49 - 💾 5.7MB - 📀 250\n📥 download: /dl_BdJ72aG\n‎----------------------------------\n\n",
+    {
+     "type": "bold",
+     "text": "‎1. Ferhad Bicare - Sevgili Canan Olurem Sen..."
+    },
+    "\n🕒 03:50 - 💾 6.1MB - 📀 250\n📥 download: /dl_BG5W5gg\n‎----------------------------------"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "🔎 نتایج جستجو برای: Ferhad Bicare Sevgili Canan Olurem Senin Ucun"
+    },
+    {
+     "type": "plain",
+     "text": "\n⚠️نتایج بهتر پایین لیست هستند. شماره 1 بهترین نتیجه است.\n"
+    },
+    {
+     "type": "pre",
+     "text": "ــ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ",
+     "language": ""
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "‎8. روبیکا - Sevgili Canan Olurem senin çun"
+    },
+    {
+     "type": "plain",
+     "text": "\n🕒 03:32 - 💾 941KB \n📥 download: /dl_Bdo2j7l\n‎----------------------------------\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "‎7. Ferhad Bicare Sevgili Canan 2021 - ıllı"
+    },
+    {
+     "type": "plain",
+     "text": "\n🕒 03:36 - 💾 3.5MB \n📥 download: /dl_BMRq0Wz\n‎----------------------------------\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "‎6. Sevgili Canan Olurem senin çun"
+    },
+    {
+     "type": "plain",
+     "text": "\n🕒 03:32 - 💾 5.0MB - 📀 190\n📥 download: /dl_B3Xbj6M\n‎----------------------------------\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "‎5. Sevgili Canan Olurem senin uçun"
+    },
+    {
+     "type": "plain",
+     "text": "\n🕒 03:32 - 💾 4.9MB - 📀 190\n📥 download: /dl_B8Z45MX\n‎----------------------------------\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "‎4. Ferhat Bicare-Sevgili Canan Olurem Senin..."
+    },
+    {
+     "type": "plain",
+     "text": "\n🕒 03:52 - 💾 3.4MB \n📥 download: /dl_Bpz4qyP\n‎----------------------------------\n\n‎"
+    },
+    {
+     "type": "bold",
+     "text": "📱 مدیریت آسان موزیک های تلگرام"
+    },
+    {
+     "type": "plain",
+     "text": "\n‎اپ آهنگیفای را امتحان کنید\n‎"
+    },
+    {
+     "type": "text_link",
+     "text": "دانلود اپلیکیشن",
+     "href": "https://play.google.com/store/apps/details?id=com.ahangify.music&referrer=utm_source%3Dtelegram%26utm_medium%3Dsearch_text%26utm_term%3Dsearch_results%26anid%3Dadmob"
+    },
+    {
+     "type": "plain",
+     "text": "\n‎----------------------------------\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "‎3. Ferhad Bicare - Sevgili Canan olurem sen..."
+    },
+    {
+     "type": "plain",
+     "text": "\n🕒 03:49 - 💾 6.2MB - 📀 250\n📥 download: /dl_BPLk1E3\n‎----------------------------------\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "‎2. Ferhad Bicare Sevgili Canan Olurem Senin..."
+    },
+    {
+     "type": "plain",
+     "text": "\n🕒 03:49 - 💾 5.7MB - 📀 250\n📥 download: /dl_BdJ72aG\n‎----------------------------------\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "‎1. Ferhad Bicare - Sevgili Canan Olurem Sen..."
+    },
+    {
+     "type": "plain",
+     "text": "\n🕒 03:50 - 💾 6.1MB - 📀 250\n📥 download: /dl_BG5W5gg\n‎----------------------------------"
+    }
+   ]
+  },
+  {
+   "id": 411799,
+   "type": "message",
+   "date": "2022-11-13T23:38:34",
+   "date_unixtime": "1668370114",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 109,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 411802,
+   "type": "message",
+   "date": "2022-11-14T01:03:29",
+   "date_unixtime": "1668375209",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "UT VIP 🎓",
+   "text": [
+    "سلام\nورودی 1401 دامپزشکی ام گی ام موهامم فره \nیکم حالت دخترونه دارم\nیه مرد قوی و پشمالو با سایز بالا بیاد آشنا شیم❤️\n\n",
+    {
+     "type": "hashtag",
+     "text": "#آگهی_دوست_یابی"
+    },
+    "\n———————————————————\n🎓 ",
+    {
+     "type": "mention",
+     "text": "@utVIP_Bot"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سلام\nورودی 1401 دامپزشکی ام گی ام موهامم فره \nیکم حالت دخترونه دارم\nیه مرد قوی و پشمالو با سایز بالا بیاد آشنا شیم❤️\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#آگهی_دوست_یابی"
+    },
+    {
+     "type": "plain",
+     "text": "\n———————————————————\n🎓 "
+    },
+    {
+     "type": "mention",
+     "text": "@utVIP_Bot"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 415610,
+   "type": "message",
+   "date": "2022-11-28T18:14:42",
+   "date_unixtime": "1669646682",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "Bahar🌱🌿 ...",
+   "text": "سلام دوستان گروهی سراغ ندارید چت انگلیسی بشه؟ممبراش صرفا ایرانی نباشه و ازهمه جاباشن",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سلام دوستان گروهی سراغ ندارید چت انگلیسی بشه؟ممبراش صرفا ایرانی نباشه و ازهمه جاباشن"
+    }
+   ]
+  },
+  {
+   "id": 415611,
+   "type": "message",
+   "date": "2022-11-28T18:14:43",
+   "date_unixtime": "1669646683",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "Moeen",
+   "reply_to_message_id": 415610,
+   "text": "سلام\nاز نرم افزار tandem استفاده کنین",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سلام\nاز نرم افزار tandem استفاده کنین"
+    }
+   ]
+  },
+  {
+   "id": 415638,
+   "type": "message",
+   "date": "2022-11-29T11:20:39",
+   "date_unixtime": "1669708239",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "پیشنهادهایی برای اپلای",
+   "text": [
+    {
+     "type": "bold",
+     "text": "زبان انگلیسی-قسمتهای سوم و چهارم:مهارت صحبت کردن Speaking \nقسمت چهارم مهارت نوشتن Writing"
+    },
+    "\n \n\n‏",
+    {
+     "type": "mention",
+     "text": "@safarname7"
+    },
+    "\n\n🎓🎓🎓من توی این دو مهارت تقریباً هیچ تجربه ای نداشتم (غیر از نوشتن متن مقاله انگلیسی برای یکی دو مقاله) و کلاس هم نرفته بودم. به همین خاطر مجبور شدم کلاس نیمه خصوصی برم. چطور؟ ۶ نفر شدیم و یکی از معلم زبانهای خصوصی رو قانع مردیم هفته ای یکبار برای هشت هفته باهامون کار کنه. اینجوری هم هزینه کمتر می شد و هم فرصت صحبت با چند نفر به انگلیسی و تمرین بیشتر فراهم میشد. یه سری نکته محدود یادمه که مینویسم. بعلاوه، نمونه سوالات دوره های قبلی تافل خیلی کمک کرد. مخصوصا که سبک سوالات رو میفهمید و میتونید آماده برید سر امتحان.\nنهایتا توصیه م اینه که چند نفر بشید و یه معلم زبان خوب پیدا کنید برای این دو مهارت (وشاید برای دو مهارت اول هم بهتون کمک کنه). معلم زبان هم میتونه تلفظهاتونو اصلاح کنه و هم متنهای رایتینگتون رو تصحیح کنه و بهتون مهارت نوشتن یاد بده.\n\n‏",
+    {
+     "type": "mention",
+     "text": "@safarname7"
+    },
+    "\n\n\nاینم نکاتی که من یادمه: برای صحبت کردن یه قالب گفته بود که همیشه من استفاده میکردم. مثلا میپرسید شهر/رنگ/غذا/معلم/شغل... مورد علاقه تون چیه؟ اول یه جمله معرفی میگید. My favorite ... is.... because of several reasons. I am going to talk about two of them. First,..... Second.... . Because of these reasons, has been always my favorite... \nقسمت اول یکی دو جمله. دو تا بخش اصلی دلایلتونو میگید و نهایتن جمع بندی. \n\nبرای نوشتن: موضوعات یا مقایسه بین آ و ب هست. یا توصیف یک موضوع. \nدر هر دو صورت چهار پاراگراف بنویسید.\n\n‏",
+    {
+     "type": "mention",
+     "text": "@safarname7"
+    },
+    "\n\nپاراگراف اول: مقدمه. شروع کنید یه سری نکته کلی درمورد موضوع بگید. یه سری کلیدواژه برای این پاراگراف: In recent years,… \nWith the advent of....\nIn my opinion,....\nWith the ever-increasing deployment of .......\nبرای متصل کردن جمله بعد به قبل یه سری کلیدوازه حفظ کنید که تکراری استفاده نکنید:\nMoreover, additionally, further, furthermore, in addition....\n\nبرای تضاد بین دو عبارت هم همینطور:\nAlthough, however, despite...\n\nیه سری لغت شیک هم حفظ و استفاده کنید که بفهمن دامنه لغاتتون خوبه. در حد ده تا لغت خوب کافیه که ملکه ی ذهنتون بشه:\nImevitable, thorough, hectic life, exaggerate, consummate, ameliorate, as a minor quibble, deteriorate, play a pivotal role, double-edged sword\n\n‏",
+    {
+     "type": "mention",
+     "text": "@safarname7"
+    },
+    "\n\nپاراگراف دوم مزایا و معایب الف رو میگید. پاراگراف سوم مزایا و معایب ب رو میگید. Advantages and disadvantages\n\nیا\nپاراگراف دوم مزایای موضوع و پاراگراف سوم معایبش رو.\n\nپاراگراف چهارم نتیجه گیریه. با این شروع میشه In recapitulation, ....\n\nاین چیزیه که من خاطرم هست. اگه نکته ای به ذهنم رسید همینجا اضافه میکنم. ولی یادمه حدود ۵۰ تا نمونه رایتینگ نوشتم تا دستم راه افتاد و از ۳۰۰ کلمه ۱۰۰ کلمه ش از قبل تو ذهنم بود.  پس تمرین کنید و اگه مقدوره با یه معلم زبان هم به صورت کلاس نیمه خصوصی چهار تا شش نفره کار کنید. \n\nموفق باشید\nاین هم نظر کارشناس آموزش زبان : \n\n",
+    {
+     "type": "link",
+     "text": "https://twitter.com/themoomeshki/status/1334520760518516738"
+    },
+    "\n\n\n\n",
+    {
+     "type": "link",
+     "text": "Telegram.me/safarname7"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "زبان انگلیسی-قسمتهای سوم و چهارم:مهارت صحبت کردن Speaking \nقسمت چهارم مهارت نوشتن Writing"
+    },
+    {
+     "type": "plain",
+     "text": "\n \n\n‏"
+    },
+    {
+     "type": "mention",
+     "text": "@safarname7"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n🎓🎓🎓من توی این دو مهارت تقریباً هیچ تجربه ای نداشتم (غیر از نوشتن متن مقاله انگلیسی برای یکی دو مقاله) و کلاس هم نرفته بودم. به همین خاطر مجبور شدم کلاس نیمه خصوصی برم. چطور؟ ۶ نفر شدیم و یکی از معلم زبانهای خصوصی رو قانع مردیم هفته ای یکبار برای هشت هفته باهامون کار کنه. اینجوری هم هزینه کمتر می شد و هم فرصت صحبت با چند نفر به انگلیسی و تمرین بیشتر فراهم میشد. یه سری نکته محدود یادمه که مینویسم. بعلاوه، نمونه سوالات دوره های قبلی تافل خیلی کمک کرد. مخصوصا که سبک سوالات رو میفهمید و میتونید آماده برید سر امتحان.\nنهایتا توصیه م اینه که چند نفر بشید و یه معلم زبان خوب پیدا کنید برای این دو مهارت (وشاید برای دو مهارت اول هم بهتون کمک کنه). معلم زبان هم میتونه تلفظهاتونو اصلاح کنه و هم متنهای رایتینگتون رو تصحیح کنه و بهتون مهارت نوشتن یاد بده.\n\n‏"
+    },
+    {
+     "type": "mention",
+     "text": "@safarname7"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n\nاینم نکاتی که من یادمه: برای صحبت کردن یه قالب گفته بود که همیشه من استفاده میکردم. مثلا میپرسید شهر/رنگ/غذا/معلم/شغل... مورد علاقه تون چیه؟ اول یه جمله معرفی میگید. My favorite ... is.... because of several reasons. I am going to talk about two of them. First,..... Second.... . Because of these reasons, has been always my favorite... \nقسمت اول یکی دو جمله. دو تا بخش اصلی دلایلتونو میگید و نهایتن جمع بندی. \n\nبرای نوشتن: موضوعات یا مقایسه بین آ و ب هست. یا توصیف یک موضوع. \nدر هر دو صورت چهار پاراگراف بنویسید.\n\n‏"
+    },
+    {
+     "type": "mention",
+     "text": "@safarname7"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nپاراگراف اول: مقدمه. شروع کنید یه سری نکته کلی درمورد موضوع بگید. یه سری کلیدواژه برای این پاراگراف: In recent years,… \nWith the advent of....\nIn my opinion,....\nWith the ever-increasing deployment of .......\nبرای متصل کردن جمله بعد به قبل یه سری کلیدوازه حفظ کنید که تکراری استفاده نکنید:\nMoreover, additionally, further, furthermore, in addition....\n\nبرای تضاد بین دو عبارت هم همینطور:\nAlthough, however, despite...\n\nیه سری لغت شیک هم حفظ و استفاده کنید که بفهمن دامنه لغاتتون خوبه. در حد ده تا لغت خوب کافیه که ملکه ی ذهنتون بشه:\nImevitable, thorough, hectic life, exaggerate, consummate, ameliorate, as a minor quibble, deteriorate, play a pivotal role, double-edged sword\n\n‏"
+    },
+    {
+     "type": "mention",
+     "text": "@safarname7"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nپاراگراف دوم مزایا و معایب الف رو میگید. پاراگراف سوم مزایا و معایب ب رو میگید. Advantages and disadvantages\n\nیا\nپاراگراف دوم مزایای موضوع و پاراگراف سوم معایبش رو.\n\nپاراگراف چهارم نتیجه گیریه. با این شروع میشه In recapitulation, ....\n\nاین چیزیه که من خاطرم هست. اگه نکته ای به ذهنم رسید همینجا اضافه میکنم. ولی یادمه حدود ۵۰ تا نمونه رایتینگ نوشتم تا دستم راه افتاد و از ۳۰۰ کلمه ۱۰۰ کلمه ش از قبل تو ذهنم بود.  پس تمرین کنید و اگه مقدوره با یه معلم زبان هم به صورت کلاس نیمه خصوصی چهار تا شش نفره کار کنید. \n\nموفق باشید\nاین هم نظر کارشناس آموزش زبان : \n\n"
+    },
+    {
+     "type": "link",
+     "text": "https://twitter.com/themoomeshki/status/1334520760518516738"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n\n\n"
+    },
+    {
+     "type": "link",
+     "text": "Telegram.me/safarname7"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 416065,
+   "type": "message",
+   "date": "2022-12-05T11:54:03",
+   "date_unixtime": "1670228643",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "چارشنبه سوری",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 16,
+   "width": 270,
+   "height": 480,
+   "text": [
+    "تا زمان هست مهیا نبرد با اهریمن شو هموطن قابل توجه افرادی که دنبال اسلحه می گردنند این جوان سلاحی \nبرای خود ساخته\n\n",
+    {
+     "type": "hashtag",
+     "text": "#مسلح_شوید"
+    },
+    " \n\n\"کانال چارشنبه سوری\"\n",
+    {
+     "type": "mention",
+     "text": "@charshanbsori"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "تا زمان هست مهیا نبرد با اهریمن شو هموطن قابل توجه افرادی که دنبال اسلحه می گردنند این جوان سلاحی \nبرای خود ساخته\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#مسلح_شوید"
+    },
+    {
+     "type": "plain",
+     "text": " \n\n\"کانال چارشنبه سوری\"\n"
+    },
+    {
+     "type": "mention",
+     "text": "@charshanbsori"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 416246,
+   "type": "message",
+   "date": "2022-12-06T23:33:35",
+   "date_unixtime": "1670357015",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Alok",
+   "title": "Love Again (feat. Alida)",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 147,
+   "text": [
+    {
+     "type": "text_link",
+     "text": "🎧 جستجوی موزیک در آهنگیفای",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio2"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "text_link",
+     "text": "🎧 جستجوی موزیک در آهنگیفای",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio2"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 416631,
+   "type": "message",
+   "date": "2022-12-10T00:34:40",
+   "date_unixtime": "1670619880",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "اگر فردا دکتر بهت نوبت داد بدون که قراره اون حوالی شلوغ بشه شنبه",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "اگر فردا دکتر بهت نوبت داد بدون که قراره اون حوالی شلوغ بشه شنبه"
+    }
+   ]
+  },
+  {
+   "id": 416632,
+   "type": "message",
+   "date": "2022-12-10T00:35:20",
+   "date_unixtime": "1670619920",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "اوه اوه گوتدیم پس\nساخلارام عکس سالارام گلن هفته گدرم دکتره",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "اوه اوه گوتدیم پس\nساخلارام عکس سالارام گلن هفته گدرم دکتره"
+    }
+   ]
+  },
+  {
+   "id": 423989,
+   "type": "message",
+   "date": "2022-12-31T02:15:24",
+   "date_unixtime": "1672440324",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": [
+    "Look at this video... 👀 ",
+    {
+     "type": "link",
+     "text": "https://pin.it/1qDoHNZ"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Look at this video... 👀 "
+    },
+    {
+     "type": "link",
+     "text": "https://pin.it/1qDoHNZ"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 424576,
+   "type": "message",
+   "date": "2023-01-02T12:43:05",
+   "date_unixtime": "1672650785",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "audio/mpeg",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 424578,
+   "type": "message",
+   "date": "2023-01-02T12:45:38",
+   "date_unixtime": "1672650938",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Steve Aoki",
+   "title": "Are You Lonely (Ft Isak)",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 157,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 426359,
+   "type": "message",
+   "date": "2023-01-09T21:31:13",
+   "date_unixtime": "1673287273",
+   "edited": "2023-01-21T16:59:48",
+   "edited_unixtime": "1674307788",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://youtu.be/Gffuow8SO7I"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://youtu.be/Gffuow8SO7I"
+    }
+   ]
+  },
+  {
+   "id": 426360,
+   "type": "message",
+   "date": "2023-01-09T21:32:05",
+   "date_unixtime": "1673287325",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "حجی آهنگش رو کامل نتونستم پیدا کنم فقط این نسخه های کوتاهش هستن\nتو گوگل بزنی youtube to mp3 \nسایت میاره اد کن اگر خواستی فایل صوتی همینو بده بهت",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "حجی آهنگش رو کامل نتونستم پیدا کنم فقط این نسخه های کوتاهش هستن\nتو گوگل بزنی youtube to mp3 \nسایت میاره اد کن اگر خواستی فایل صوتی همینو بده بهت"
+    }
+   ]
+  },
+  {
+   "id": 426376,
+   "type": "message",
+   "date": "2023-01-09T22:02:23",
+   "date_unixtime": "1673289143",
+   "edited": "2023-01-09T22:06:44",
+   "edited_unixtime": "1673289404",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "اره اوکیش میکنه دمت گرمه کاکا❤😀😘",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "اره اوکیش میکنه دمت گرمه کاکا❤😀😘"
+    }
+   ]
+  },
+  {
+   "id": 426553,
+   "type": "message",
+   "date": "2023-01-12T20:21:02",
+   "date_unixtime": "1673542262",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Sero Produktion Beats",
+   "title": "Rüya",
+   "mime_type": "audio/mp3",
+   "duration_seconds": 229,
+   "text": [
+    {
+     "type": "text_link",
+     "text": "🎧 جستجوی موزیک در آهنگیفای",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio2"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "text_link",
+     "text": "🎧 جستجوی موزیک در آهنگیفای",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio2"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 426554,
+   "type": "message",
+   "date": "2023-01-12T20:21:02",
+   "date_unixtime": "1673542262",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Sero Produktion Beats",
+   "title": "Yagmur",
+   "mime_type": "audio/mp3",
+   "duration_seconds": 145,
+   "text": [
+    {
+     "type": "text_link",
+     "text": "🎧 آهنگیفای: جستجوی موزیک",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "text_link",
+     "text": "🎧 آهنگیفای: جستجوی موزیک",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 426570,
+   "type": "message",
+   "date": "2023-01-13T00:53:46",
+   "date_unixtime": "1673558626",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "title": "Sero Prod YARGI 2 [ Aggressive Turkish Drill ] Mafya Müziği",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 130,
+   "text": [
+    {
+     "type": "text_link",
+     "text": "🎧 آهنگیفای: جستجوی موزیک",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "text_link",
+     "text": "🎧 آهنگیفای: جستجوی موزیک",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 426571,
+   "type": "message",
+   "date": "2023-01-13T00:53:46",
+   "date_unixtime": "1673558626",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Sezen Aksu",
+   "title": "Bir Çocuk Sevdim",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 295,
+   "text": [
+    {
+     "type": "text_link",
+     "text": "🎧 آهنگیفای: جستجوی موزیک",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "text_link",
+     "text": "🎧 آهنگیفای: جستجوی موزیک",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 426772,
+   "type": "message",
+   "date": "2023-01-15T22:20:40",
+   "date_unixtime": "1673808640",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "انقلاب ۱۴۰۲",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 749,
+   "height": 857,
+   "text": "🔴  اطلاعات ۶۹ میلیون از شهروندان ایران درحال فروش است.\n\nفروشنده مدعی است این نشت اطلاعاتی از شرکت مخابرات ایران است.\nاطلاعات شامل اسم فامیل کدملی ادرس و شماره موبایل است.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🔴  اطلاعات ۶۹ میلیون از شهروندان ایران درحال فروش است.\n\nفروشنده مدعی است این نشت اطلاعاتی از شرکت مخابرات ایران است.\nاطلاعات شامل اسم فامیل کدملی ادرس و شماره موبایل است."
+    }
+   ]
+  },
+  {
+   "id": 426773,
+   "type": "message",
+   "date": "2023-01-15T22:20:40",
+   "date_unixtime": "1673808640",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "انقلاب ۱۴۰۲",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 560,
+   "height": 315,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 427151,
+   "type": "message",
+   "date": "2023-01-20T01:18:32",
+   "date_unixtime": "1674164912",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "سعید بالا کی میای؟",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سعید بالا کی میای؟"
+    }
+   ]
+  },
+  {
+   "id": 427161,
+   "type": "message",
+   "date": "2023-01-20T04:32:28",
+   "date_unixtime": "1674176548",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "انشالله شنبه ظهر اونجام",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "انشالله شنبه ظهر اونجام"
+    }
+   ]
+  },
+  {
+   "id": 427162,
+   "type": "message",
+   "date": "2023-01-20T04:32:34",
+   "date_unixtime": "1674176554",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "چیزی نیازه بیارم؟؟؟",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "چیزی نیازه بیارم؟؟؟"
+    }
+   ]
+  },
+  {
+   "id": 427163,
+   "type": "message",
+   "date": "2023-01-20T04:34:53",
+   "date_unixtime": "1674176693",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "همون خوردنیا که خودت گفتی و من یادم نیست",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "همون خوردنیا که خودت گفتی و من یادم نیست"
+    }
+   ]
+  },
+  {
+   "id": 427164,
+   "type": "message",
+   "date": "2023-01-20T09:15:20",
+   "date_unixtime": "1674193520",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "حله حله😍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "حله حله😍"
+    }
+   ]
+  },
+  {
+   "id": 427165,
+   "type": "message",
+   "date": "2023-01-20T09:15:30",
+   "date_unixtime": "1674193530",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "باز چیزی یادت افتاد بگو",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "باز چیزی یادت افتاد بگو"
+    }
+   ]
+  },
+  {
+   "id": 427172,
+   "type": "message",
+   "date": "2023-01-20T09:26:39",
+   "date_unixtime": "1674194199",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Sakar Prod",
+   "title": "Sakar Prod - Sivas Ellerinde Sazım Çalınır (Selda Bağcan & Taladro)…",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 272,
+   "text": [
+    {
+     "type": "text_link",
+     "text": "🎧 جستجوی موزیک در آهنگیفای",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio2"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "text_link",
+     "text": "🎧 جستجوی موزیک در آهنگیفای",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio2"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 427173,
+   "type": "message",
+   "date": "2023-01-20T09:26:59",
+   "date_unixtime": "1674194219",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "میلاد اون اهنگی ک گفتی همینه جفتش اینه\nگوش بدی میفهمی",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "میلاد اون اهنگی ک گفتی همینه جفتش اینه\nگوش بدی میفهمی"
+    }
+   ]
+  },
+  {
+   "id": 427525,
+   "type": "message",
+   "date": "2023-01-21T16:57:14",
+   "date_unixtime": "1674307634",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://youtube.com/shorts/FUIpC4G2Esg?feature=share"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://youtube.com/shorts/FUIpC4G2Esg?feature=share"
+    }
+   ]
+  },
+  {
+   "id": 427526,
+   "type": "message",
+   "date": "2023-01-21T16:58:24",
+   "date_unixtime": "1674307704",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "reply_to_message_id": 427172,
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 3,
+   "width": 320,
+   "height": 180,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 428031,
+   "type": "message",
+   "date": "2023-01-23T21:27:13",
+   "date_unixtime": "1674496633",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "رویدادهای ملی و بین المللی",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 905,
+   "height": 1280,
+   "text": [
+    {
+     "type": "bold",
+     "text": "پنجمین دوره سمپوزیوم نوروساینس شریف 2023 (11 و 12 اسفند 1401):\n"
+    },
+    {
+     "type": "link",
+     "text": "sns.ee.sharif.edu"
+    },
+    {
+     "type": "bold",
+     "text": "\n\nلیست کارگاه‌های آموزشی پنجمین دوره نوروساینس شریف:\n"
+    },
+    {
+     "type": "link",
+     "text": "sns.ee.sharif.edu/sns2023/workshops"
+    },
+    {
+     "type": "bold",
+     "text": "\n\nلینک ثبت نام دوره آنلاین از تک نورون تا یادگیری شبکه‌های عصبی (شروع دوره جمعه 7 بهمن 1401):\n"
+    },
+    {
+     "type": "link",
+     "text": "evand.com/events/sns-neuron"
+    },
+    {
+     "type": "bold",
+     "text": "\n\nلینک ثبت نام دوره آنلاین هوش مصنوعی و یادگیری عمیق (شروع دوره جمعه 21 بهمن 1401):\n"
+    },
+    {
+     "type": "link",
+     "text": "evand.com/events/sns-ai"
+    },
+    {
+     "type": "bold",
+     "text": "\n\nلینک ثبت نام دوره آنلاین fMRI (شروع دوره چهارشنبه 3 اسفند 1401):\n"
+    },
+    {
+     "type": "link",
+     "text": "evand.com/events/sns-fmri"
+    },
+    {
+     "type": "bold",
+     "text": "\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#SNS"
+    },
+    " ",
+    {
+     "type": "hashtag",
+     "text": "#SUT"
+    },
+    " ",
+    {
+     "type": "hashtag",
+     "text": "#IPM"
+    },
+    " ",
+    {
+     "type": "hashtag",
+     "text": "#Online"
+    },
+    " ",
+    {
+     "type": "hashtag",
+     "text": "#Workshop"
+    },
+    " ",
+    {
+     "type": "hashtag",
+     "text": "#Neuroscience"
+    },
+    " ",
+    {
+     "type": "hashtag",
+     "text": "#Artificial_Intelligence"
+    },
+    " ",
+    {
+     "type": "hashtag",
+     "text": "#fMRI"
+    },
+    "\n",
+    {
+     "type": "mention",
+     "text": "@inevents"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "پنجمین دوره سمپوزیوم نوروساینس شریف 2023 (11 و 12 اسفند 1401):\n"
+    },
+    {
+     "type": "link",
+     "text": "sns.ee.sharif.edu"
+    },
+    {
+     "type": "bold",
+     "text": "\n\nلیست کارگاه‌های آموزشی پنجمین دوره نوروساینس شریف:\n"
+    },
+    {
+     "type": "link",
+     "text": "sns.ee.sharif.edu/sns2023/workshops"
+    },
+    {
+     "type": "bold",
+     "text": "\n\nلینک ثبت نام دوره آنلاین از تک نورون تا یادگیری شبکه‌های عصبی (شروع دوره جمعه 7 بهمن 1401):\n"
+    },
+    {
+     "type": "link",
+     "text": "evand.com/events/sns-neuron"
+    },
+    {
+     "type": "bold",
+     "text": "\n\nلینک ثبت نام دوره آنلاین هوش مصنوعی و یادگیری عمیق (شروع دوره جمعه 21 بهمن 1401):\n"
+    },
+    {
+     "type": "link",
+     "text": "evand.com/events/sns-ai"
+    },
+    {
+     "type": "bold",
+     "text": "\n\nلینک ثبت نام دوره آنلاین fMRI (شروع دوره چهارشنبه 3 اسفند 1401):\n"
+    },
+    {
+     "type": "link",
+     "text": "evand.com/events/sns-fmri"
+    },
+    {
+     "type": "bold",
+     "text": "\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#SNS"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "hashtag",
+     "text": "#SUT"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "hashtag",
+     "text": "#IPM"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "hashtag",
+     "text": "#Online"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "hashtag",
+     "text": "#Workshop"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "hashtag",
+     "text": "#Neuroscience"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "hashtag",
+     "text": "#Artificial_Intelligence"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "hashtag",
+     "text": "#fMRI"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "mention",
+     "text": "@inevents"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 428032,
+   "type": "message",
+   "date": "2023-01-23T21:27:13",
+   "date_unixtime": "1674496633",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "رویدادهای ملی و بین المللی",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 905,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 428033,
+   "type": "message",
+   "date": "2023-01-23T21:27:13",
+   "date_unixtime": "1674496633",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "رویدادهای ملی و بین المللی",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 905,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 428034,
+   "type": "message",
+   "date": "2023-01-23T21:27:13",
+   "date_unixtime": "1674496633",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "رویدادهای ملی و بین المللی",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 905,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 430365,
+   "type": "message",
+   "date": "2023-02-01T19:19:24",
+   "date_unixtime": "1675266564",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "مووی کاتیج",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 45,
+   "width": 720,
+   "height": 720,
+   "text": "چگونه در 44ثانیه به همه بِریـ*ـنـیـ*ـم 😂\nلامصب نه به برنامه رحم کرد\nنه به دوست دخترش رحم کرد... 😂🚶\n\nmoviepassion. ir",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "چگونه در 44ثانیه به همه بِریـ*ـنـیـ*ـم 😂\nلامصب نه به برنامه رحم کرد\nنه به دوست دخترش رحم کرد... 😂🚶\n\nmoviepassion. ir"
+    }
+   ]
+  },
+  {
+   "id": 430488,
+   "type": "message",
+   "date": "2023-02-02T11:26:40",
+   "date_unixtime": "1675324600",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": [
+    {
+     "type": "mention",
+     "text": "@mahsa_308308"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@mahsa_308308"
+    }
+   ]
+  },
+  {
+   "id": 430521,
+   "type": "message",
+   "date": "2023-02-02T14:11:29",
+   "date_unixtime": "1675334489",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "image/jpeg",
+   "width": 4608,
+   "height": 2592,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 430522,
+   "type": "message",
+   "date": "2023-02-02T14:11:29",
+   "date_unixtime": "1675334489",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "image/jpeg",
+   "width": 4608,
+   "height": 2592,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 430523,
+   "type": "message",
+   "date": "2023-02-02T14:11:29",
+   "date_unixtime": "1675334489",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "image/jpeg",
+   "width": 2592,
+   "height": 4608,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 430524,
+   "type": "message",
+   "date": "2023-02-02T14:11:29",
+   "date_unixtime": "1675334489",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "image/jpeg",
+   "width": 2592,
+   "height": 4608,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 430525,
+   "type": "message",
+   "date": "2023-02-02T14:11:29",
+   "date_unixtime": "1675334489",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "image/jpeg",
+   "width": 2592,
+   "height": 4608,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 430526,
+   "type": "message",
+   "date": "2023-02-02T14:11:29",
+   "date_unixtime": "1675334489",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "image/jpeg",
+   "width": 2592,
+   "height": 4608,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 430527,
+   "type": "message",
+   "date": "2023-02-02T14:11:29",
+   "date_unixtime": "1675334489",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "image/jpeg",
+   "width": 2592,
+   "height": 4608,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 430528,
+   "type": "message",
+   "date": "2023-02-02T14:11:29",
+   "date_unixtime": "1675334489",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "image/jpeg",
+   "width": 4608,
+   "height": 2592,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 430529,
+   "type": "message",
+   "date": "2023-02-02T14:11:29",
+   "date_unixtime": "1675334489",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "image/jpeg",
+   "width": 4608,
+   "height": 2592,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 430530,
+   "type": "message",
+   "date": "2023-02-02T14:11:29",
+   "date_unixtime": "1675334489",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "image/jpeg",
+   "width": 4608,
+   "height": 2592,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 430531,
+   "type": "message",
+   "date": "2023-02-02T14:11:39",
+   "date_unixtime": "1675334499",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "image/jpeg",
+   "width": 4608,
+   "height": 2592,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 430532,
+   "type": "message",
+   "date": "2023-02-02T14:11:39",
+   "date_unixtime": "1675334499",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "image/jpeg",
+   "width": 4608,
+   "height": 2592,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 430533,
+   "type": "message",
+   "date": "2023-02-02T14:11:39",
+   "date_unixtime": "1675334499",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "image/jpeg",
+   "width": 4608,
+   "height": 2592,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 430534,
+   "type": "message",
+   "date": "2023-02-02T14:11:39",
+   "date_unixtime": "1675334499",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "image/jpeg",
+   "width": 4608,
+   "height": 2592,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 430535,
+   "type": "message",
+   "date": "2023-02-02T14:11:39",
+   "date_unixtime": "1675334499",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "image/jpeg",
+   "width": 4608,
+   "height": 2592,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 431000,
+   "type": "message",
+   "date": "2023-02-03T22:06:52",
+   "date_unixtime": "1675449412",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "توییتر دانشگاه تهرانی ها",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 14,
+   "width": 1280,
+   "height": 720,
+   "text": [
+    "اگه بخوای مادیانت با این آقا جفت‌گیری کنه باید سیصدهزار دلار پیاده شی. سالی سی و پنج میلیون در میاره.[به ادعای نویسنده] \n\n\n_Danial Omidvar_\n\n\n",
+    {
+     "type": "mention",
+     "text": "@uttweet"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "اگه بخوای مادیانت با این آقا جفت‌گیری کنه باید سیصدهزار دلار پیاده شی. سالی سی و پنج میلیون در میاره.[به ادعای نویسنده] \n\n\n_Danial Omidvar_\n\n\n"
+    },
+    {
+     "type": "mention",
+     "text": "@uttweet"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 431003,
+   "type": "message",
+   "date": "2023-02-03T22:11:10",
+   "date_unixtime": "1675449670",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "اوجوردی واقعا",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "اوجوردی واقعا"
+    }
+   ]
+  },
+  {
+   "id": 432279,
+   "type": "message",
+   "date": "2023-02-06T19:13:39",
+   "date_unixtime": "1675698219",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "سعید اون کسشر سیاه که دیدیم الان یادم اومد",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سعید اون کسشر سیاه که دیدیم الان یادم اومد"
+    }
+   ]
+  },
+  {
+   "id": 432280,
+   "type": "message",
+   "date": "2023-02-06T19:13:43",
+   "date_unixtime": "1675698223",
+   "edited": "2023-02-06T19:13:49",
+   "edited_unixtime": "1675698229",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "برا برنجه",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "برا برنجه"
+    }
+   ]
+  },
+  {
+   "id": 432281,
+   "type": "message",
+   "date": "2023-02-06T19:14:11",
+   "date_unixtime": "1675698251",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "تو برنج میوفته چیزای سیاه که میرن تو سایه پهن می‌کنن که بره",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "تو برنج میوفته چیزای سیاه که میرن تو سایه پهن می‌کنن که بره"
+    }
+   ]
+  },
+  {
+   "id": 432282,
+   "type": "message",
+   "date": "2023-02-06T19:14:17",
+   "date_unixtime": "1675698257",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "این دقیقا همون بود",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "این دقیقا همون بود"
+    }
+   ]
+  },
+  {
+   "id": 432283,
+   "type": "message",
+   "date": "2023-02-06T19:14:21",
+   "date_unixtime": "1675698261",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "من خیلی دیدم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "من خیلی دیدم"
+    }
+   ]
+  },
+  {
+   "id": 432284,
+   "type": "message",
+   "date": "2023-02-06T19:14:27",
+   "date_unixtime": "1675698267",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "به برنجت یه سر بزن",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "به برنجت یه سر بزن"
+    }
+   ]
+  },
+  {
+   "id": 432290,
+   "type": "message",
+   "date": "2023-02-06T21:24:57",
+   "date_unixtime": "1675706097",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "حله نگاه مبکنم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "حله نگاه مبکنم"
+    }
+   ]
+  },
+  {
+   "id": 432488,
+   "type": "message",
+   "date": "2023-02-07T16:28:38",
+   "date_unixtime": "1675774718",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "6GAG",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 17,
+   "width": 460,
+   "height": 612,
+   "text": [
+    {
+     "type": "hashtag",
+     "text": "#video"
+    },
+    " / ",
+    {
+     "type": "hashtag",
+     "text": "#fun"
+    },
+    "\n",
+    {
+     "type": "mention",
+     "text": "@SIXGAG"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "hashtag",
+     "text": "#video"
+    },
+    {
+     "type": "plain",
+     "text": " / "
+    },
+    {
+     "type": "hashtag",
+     "text": "#fun"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "mention",
+     "text": "@SIXGAG"
+    }
+   ]
+  },
+  {
+   "id": 433469,
+   "type": "message",
+   "date": "2023-02-10T18:33:50",
+   "date_unixtime": "1676041430",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "حجی تولد جواده ها یادتون نره",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "حجی تولد جواده ها یادتون نره"
+    }
+   ]
+  },
+  {
+   "id": 433479,
+   "type": "message",
+   "date": "2023-02-10T19:09:38",
+   "date_unixtime": "1676043578",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "رفته خونشون",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "رفته خونشون"
+    }
+   ]
+  },
+  {
+   "id": 433485,
+   "type": "message",
+   "date": "2023-02-10T19:21:08",
+   "date_unixtime": "1676044268",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "میدونم یه زنگی پیامی چیزی",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "میدونم یه زنگی پیامی چیزی"
+    }
+   ]
+  },
+  {
+   "id": 433493,
+   "type": "message",
+   "date": "2023-02-10T19:27:49",
+   "date_unixtime": "1676044669",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "اره با مهدی هماهنگیم ۱۲ میزنگیم😅",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "اره با مهدی هماهنگیم ۱۲ میزنگیم😅"
+    }
+   ]
+  },
+  {
+   "id": 433498,
+   "type": "message",
+   "date": "2023-02-10T19:28:44",
+   "date_unixtime": "1676044724",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "😂",
+   "width": 512,
+   "height": 444,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 433499,
+   "type": "message",
+   "date": "2023-02-10T19:29:13",
+   "date_unixtime": "1676044753",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "سرود ۲۲ بهمن و این انقلابیا پخش کنین اول که برداشت صدا اون بیاد😂😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سرود ۲۲ بهمن و این انقلابیا پخش کنین اول که برداشت صدا اون بیاد😂😂"
+    }
+   ]
+  },
+  {
+   "id": 433500,
+   "type": "message",
+   "date": "2023-02-10T19:33:43",
+   "date_unixtime": "1676045023",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "دقیقا😅",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "دقیقا😅"
+    }
+   ]
+  },
+  {
+   "id": 434490,
+   "type": "message",
+   "date": "2023-02-14T21:02:17",
+   "date_unixtime": "1676395937",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "MMDLeecher Help",
+   "text": [
+    "Matsuri \n\n🛒 ",
+    {
+     "type": "text_link",
+     "text": "دانلود از پلی استور (Play Store)",
+     "href": "https://play.google.com/store/apps/details?id=moe.matsuri.lite"
+    },
+    "\n\n🐈‍⬛️ ",
+    {
+     "type": "text_link",
+     "text": "دانلود از گیت هاب (GitHub)",
+     "href": "https://github.com/Matsuridayo/Matsuri/releases"
+    },
+    "\n\n🖲 ",
+    {
+     "type": "text_link",
+     "text": "پلاگین x-ray برای سرور های vless",
+     "href": "https://github.com/MatsuriDayo/plugins/tree/Xray-v1.5.9-1"
+    },
+    "\n\n🗂 ",
+    {
+     "type": "text_link",
+     "text": "دانلود با فایل",
+     "href": "https://t.me/MMDLeecherHelp/120"
+    },
+    "\n\n🗂 ",
+    {
+     "type": "text_link",
+     "text": "دانلود با فایل",
+     "href": "https://t.me/MMDLeecherHelp/16?single"
+    },
+    " - ",
+    {
+     "type": "text_link",
+     "text": "فایل پلاگین x-ray",
+     "href": "https://t.me/MMDLeecherHelp/18?single"
+    },
+    "\n\n🔆 آموزش ها \n- ",
+    {
+     "type": "text_link",
+     "text": "اضافه کردن لینک آپدیت خودکار",
+     "href": "https://t.me/MMDLeecherHelp/13"
+    },
+    ".\n- ",
+    {
+     "type": "text_link",
+     "text": "آموزش اضافه کردن لینک سرور ها به صورت دستی.",
+     "href": "https://t.me/MMDLeecherHelp/14"
+    },
+    "\n- ",
+    {
+     "type": "text_link",
+     "text": "آموزش تست پینگ و متصل شدن به بهترین سرور.",
+     "href": "https://t.me/MMDLeecherHelp/15"
+    },
+    "\n\n",
+    {
+     "type": "mention",
+     "text": "@MMDLeecherHelp"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Matsuri \n\n🛒 "
+    },
+    {
+     "type": "text_link",
+     "text": "دانلود از پلی استور (Play Store)",
+     "href": "https://play.google.com/store/apps/details?id=moe.matsuri.lite"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n🐈‍⬛️ "
+    },
+    {
+     "type": "text_link",
+     "text": "دانلود از گیت هاب (GitHub)",
+     "href": "https://github.com/Matsuridayo/Matsuri/releases"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n🖲 "
+    },
+    {
+     "type": "text_link",
+     "text": "پلاگین x-ray برای سرور های vless",
+     "href": "https://github.com/MatsuriDayo/plugins/tree/Xray-v1.5.9-1"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n🗂 "
+    },
+    {
+     "type": "text_link",
+     "text": "دانلود با فایل",
+     "href": "https://t.me/MMDLeecherHelp/120"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n🗂 "
+    },
+    {
+     "type": "text_link",
+     "text": "دانلود با فایل",
+     "href": "https://t.me/MMDLeecherHelp/16?single"
+    },
+    {
+     "type": "plain",
+     "text": " - "
+    },
+    {
+     "type": "text_link",
+     "text": "فایل پلاگین x-ray",
+     "href": "https://t.me/MMDLeecherHelp/18?single"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n🔆 آموزش ها \n- "
+    },
+    {
+     "type": "text_link",
+     "text": "اضافه کردن لینک آپدیت خودکار",
+     "href": "https://t.me/MMDLeecherHelp/13"
+    },
+    {
+     "type": "plain",
+     "text": ".\n- "
+    },
+    {
+     "type": "text_link",
+     "text": "آموزش اضافه کردن لینک سرور ها به صورت دستی.",
+     "href": "https://t.me/MMDLeecherHelp/14"
+    },
+    {
+     "type": "plain",
+     "text": "\n- "
+    },
+    {
+     "type": "text_link",
+     "text": "آموزش تست پینگ و متصل شدن به بهترین سرور.",
+     "href": "https://t.me/MMDLeecherHelp/15"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "mention",
+     "text": "@MMDLeecherHelp"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 437056,
+   "type": "message",
+   "date": "2023-02-24T18:48:47",
+   "date_unixtime": "1677251927",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "title": "X2Download.app - dedublüman - belki (speed up)",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 134,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 437071,
+   "type": "message",
+   "date": "2023-02-24T18:51:27",
+   "date_unixtime": "1677252087",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "توییتر دانشگاه تهرانی ها",
+   "text": [
+    "با این قیمتا، ‏مهندس روز نمیخواد\nویزا میخواد\n\n\n_basil_\n\n\n",
+    {
+     "type": "mention",
+     "text": "@uttweet"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "با این قیمتا، ‏مهندس روز نمیخواد\nویزا میخواد\n\n\n_basil_\n\n\n"
+    },
+    {
+     "type": "mention",
+     "text": "@uttweet"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 438367,
+   "type": "message",
+   "date": "2023-03-05T22:29:25",
+   "date_unixtime": "1678042765",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1058,
+   "height": 1209,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 438869,
+   "type": "message",
+   "date": "2023-03-07T23:43:01",
+   "date_unixtime": "1678219981",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": [
+    "Look at this... 👀 ",
+    {
+     "type": "link",
+     "text": "https://pin.it/5U2wnXr"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Look at this... 👀 "
+    },
+    {
+     "type": "link",
+     "text": "https://pin.it/5U2wnXr"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 439060,
+   "type": "message",
+   "date": "2023-03-09T22:03:19",
+   "date_unixtime": "1678386799",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "image/jpeg",
+   "width": 1328,
+   "height": 1660,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 439758,
+   "type": "message",
+   "date": "2023-03-12T23:45:15",
+   "date_unixtime": "1678652115",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "RAYE",
+   "title": "Escapism. (Ft. 070 Shake)",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 272,
+   "text": [
+    {
+     "type": "mention",
+     "text": "@cnaworld1"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@cnaworld1"
+    }
+   ]
+  },
+  {
+   "id": 439759,
+   "type": "message",
+   "date": "2023-03-12T23:45:15",
+   "date_unixtime": "1678652115",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Uzi",
+   "title": "Krvn",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 171,
+   "text": "آهنگِ استوری دیشب🤩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "آهنگِ استوری دیشب🤩"
+    }
+   ]
+  },
+  {
+   "id": 439760,
+   "type": "message",
+   "date": "2023-03-12T23:53:25",
+   "date_unixtime": "1678652605",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Saman Perfect",
+   "title": "bede bezanim",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 202,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 439763,
+   "type": "message",
+   "date": "2023-03-12T23:54:42",
+   "date_unixtime": "1678652682",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 246,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 440184,
+   "type": "message",
+   "date": "2023-03-16T22:58:33",
+   "date_unixtime": "1678994913",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://youtu.be/hKF3e5I8zqM"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://youtu.be/hKF3e5I8zqM"
+    }
+   ]
+  },
+  {
+   "id": 440190,
+   "type": "message",
+   "date": "2023-03-17T07:40:05",
+   "date_unixtime": "1679026205",
+   "edited": "2023-03-17T09:54:53",
+   "edited_unixtime": "1679034293",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "title": "X2Download.com - Elsen Pro - O Yar Gelir (Şahmar & Ülker)",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 101,
+   "text": [
+    {
+     "type": "text_link",
+     "text": "🎧 آهنگیفای: جستجوی موزیک",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "text_link",
+     "text": "🎧 آهنگیفای: جستجوی موزیک",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 440310,
+   "type": "message",
+   "date": "2023-03-17T16:21:40",
+   "date_unixtime": "1679057500",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "عموغلیییییی",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "عموغلیییییی"
+    }
+   ]
+  },
+  {
+   "id": 440311,
+   "type": "message",
+   "date": "2023-03-17T16:22:12",
+   "date_unixtime": "1679057532",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "فایل پروپوزالوی یولیابیلرسن بیر گوزل دولاندیرام گورم نجور گرک یازام",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "فایل پروپوزالوی یولیابیلرسن بیر گوزل دولاندیرام گورم نجور گرک یازام"
+    }
+   ]
+  },
+  {
+   "id": 440326,
+   "type": "message",
+   "date": "2023-03-17T20:40:37",
+   "date_unixtime": "1679073037",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "خدمتونده جوزل",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "خدمتونده جوزل"
+    }
+   ]
+  },
+  {
+   "id": 440327,
+   "type": "message",
+   "date": "2023-03-17T20:40:37",
+   "date_unixtime": "1679073037",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "application/msword",
+   "text": "Share 'فرم_تصویب_پیشنهاد_پایان_نامه میلاد آقازاده.doc'",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Share 'فرم_تصویب_پیشنهاد_پایان_نامه میلاد آقازاده.doc'"
+    }
+   ]
+  },
+  {
+   "id": 440328,
+   "type": "message",
+   "date": "2023-03-17T20:41:04",
+   "date_unixtime": "1679073064",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "حم",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 440329,
+   "type": "message",
+   "date": "2023-03-17T20:41:04",
+   "date_unixtime": "1679073064",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "حم",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 440330,
+   "type": "message",
+   "date": "2023-03-17T20:41:18",
+   "date_unixtime": "1679073078",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "بولاردا وار",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "بولاردا وار"
+    }
+   ]
+  },
+  {
+   "id": 440339,
+   "type": "message",
+   "date": "2023-03-17T22:47:34",
+   "date_unixtime": "1679080654",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "الرون آغریماسین میلاد جان😍😘",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "الرون آغریماسین میلاد جان😍😘"
+    }
+   ]
+  },
+  {
+   "id": 440345,
+   "type": "message",
+   "date": "2023-03-17T22:48:44",
+   "date_unixtime": "1679080724",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "❤️😘😘",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "❤️😘😘"
+    }
+   ]
+  },
+  {
+   "id": 441784,
+   "type": "message",
+   "date": "2023-03-25T16:31:09",
+   "date_unixtime": "1679749269",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 237,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 442025,
+   "type": "message",
+   "date": "2023-03-27T14:08:25",
+   "date_unixtime": "1679913505",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "FREDDIE DREDD",
+   "title": "LIMBO (GHOST VERSION / SLOWED)",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 203,
+   "text": [
+    {
+     "type": "text_link",
+     "text": "🎧 جستجوی موزیک در آهنگیفای",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio2"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "text_link",
+     "text": "🎧 جستجوی موزیک در آهنگیفای",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio2"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 442034,
+   "type": "message",
+   "date": "2023-03-27T14:11:41",
+   "date_unixtime": "1679913701",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "Nice😉",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Nice😉"
+    }
+   ]
+  },
+  {
+   "id": 442035,
+   "type": "message",
+   "date": "2023-03-27T14:11:58",
+   "date_unixtime": "1679913718",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "🥰",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 442048,
+   "type": "message",
+   "date": "2023-03-27T19:13:14",
+   "date_unixtime": "1679931794",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "حجی توی تمرین که مثلا یروز شنا سینه بازو و اینا میده یروز قسمتای abs و این حرفا\nمن برای پایین تنه اسکوات رفتن و اینا توی همون روز بکنم یا مثلا دو روز بالاتنه ها  و یه روز پایین تنه؟",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "حجی توی تمرین که مثلا یروز شنا سینه بازو و اینا میده یروز قسمتای abs و این حرفا\nمن برای پایین تنه اسکوات رفتن و اینا توی همون روز بکنم یا مثلا دو روز بالاتنه ها  و یه روز پایین تنه؟"
+    }
+   ]
+  },
+  {
+   "id": 442057,
+   "type": "message",
+   "date": "2023-03-27T19:17:32",
+   "date_unixtime": "1679932052",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "دو روز بالاتنه کار کن یه روز پایین تنه اینجوری اثرش زیادههه",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "دو روز بالاتنه کار کن یه روز پایین تنه اینجوری اثرش زیادههه"
+    }
+   ]
+  },
+  {
+   "id": 442058,
+   "type": "message",
+   "date": "2023-03-27T19:17:48",
+   "date_unixtime": "1679932068",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "🤌",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🤌"
+    }
+   ]
+  },
+  {
+   "id": 442059,
+   "type": "message",
+   "date": "2023-03-27T19:17:56",
+   "date_unixtime": "1679932076",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "تنکیو بالام😘",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "تنکیو بالام😘"
+    }
+   ]
+  },
+  {
+   "id": 442060,
+   "type": "message",
+   "date": "2023-03-27T19:18:03",
+   "date_unixtime": "1679932083",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "موچ 😘",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "موچ 😘"
+    }
+   ]
+  },
+  {
+   "id": 442841,
+   "type": "message",
+   "date": "2023-03-30T15:12:40",
+   "date_unixtime": "1680176560",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "@HouseZeee",
+   "title": "Maddix - Heute Nacht",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 314,
+   "text": [
+    {
+     "type": "text_link",
+     "text": "🎧 آهنگیفای: جستجوی موزیک",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "text_link",
+     "text": "🎧 آهنگیفای: جستجوی موزیک",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 443022,
+   "type": "message",
+   "date": "2023-04-02T12:21:06",
+   "date_unixtime": "1680425466",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Meriç ",
+   "title": "Bir-Ölür-Bin-Diriliriz",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 150,
+   "text": [
+    {
+     "type": "text_link",
+     "text": "🎧 جستجوی موزیک در آهنگیفای",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio2"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "text_link",
+     "text": "🎧 جستجوی موزیک در آهنگیفای",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio2"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 443293,
+   "type": "message",
+   "date": "2023-04-03T19:11:19",
+   "date_unixtime": "1680536479",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "Pooya",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://t.me/generatewarpplusbot"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://t.me/generatewarpplusbot"
+    }
+   ]
+  },
+  {
+   "id": 443308,
+   "type": "message",
+   "date": "2023-04-03T20:30:15",
+   "date_unixtime": "1680541215",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "MiladAghazade",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "application/vnd.android.package-archive",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 443610,
+   "type": "message",
+   "date": "2023-04-06T13:19:17",
+   "date_unixtime": "1680774557",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "Modern Talking No Face, No Name, No Number",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Modern Talking No Face, No Name, No Number"
+    }
+   ]
+  },
+  {
+   "id": 443683,
+   "type": "message",
+   "date": "2023-04-06T21:25:06",
+   "date_unixtime": "1680803706",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 12,
+   "width": 640,
+   "height": 1138,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 444056,
+   "type": "message",
+   "date": "2023-04-13T01:42:27",
+   "date_unixtime": "1681337547",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Orheyn | @PoOweR_BasS",
+   "title": "Karabakh",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 123,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 444088,
+   "type": "message",
+   "date": "2023-04-13T17:04:29",
+   "date_unixtime": "1681392869",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://youtube.com/shorts/dTUlP4tImvw?feature=share"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://youtube.com/shorts/dTUlP4tImvw?feature=share"
+    }
+   ]
+  },
+  {
+   "id": 444230,
+   "type": "message",
+   "date": "2023-04-17T01:18:24",
+   "date_unixtime": "1681681704",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "mahanmusic.net",
+   "title": "mahanmusic.net",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 371,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 444236,
+   "type": "message",
+   "date": "2023-04-17T18:00:22",
+   "date_unixtime": "1681741822",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "video/mp4",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 444237,
+   "type": "message",
+   "date": "2023-04-17T18:31:06",
+   "date_unixtime": "1681743666",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "Alan Walker Headlights",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Alan Walker Headlights"
+    }
+   ]
+  },
+  {
+   "id": 444322,
+   "type": "message",
+   "date": "2023-04-19T11:11:22",
+   "date_unixtime": "1681890082",
+   "edited": "2023-04-19T12:04:59",
+   "edited_unixtime": "1681893299",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Ishak Ahmaro",
+   "title": "عندما تعزف الحياة",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 145,
+   "text": [
+    {
+     "type": "text_link",
+     "text": "🎧 آهنگیفای: جستجوی موزیک",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "text_link",
+     "text": "🎧 آهنگیفای: جستجوی موزیک",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 444323,
+   "type": "message",
+   "date": "2023-04-19T11:47:25",
+   "date_unixtime": "1681892245",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Mark Eliyahu",
+   "title": "Journey",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 269,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 444329,
+   "type": "message",
+   "date": "2023-04-19T12:28:36",
+   "date_unixtime": "1681894716",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "reply_to_message_id": 444323,
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "🎧",
+   "duration_seconds": 3,
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 444431,
+   "type": "message",
+   "date": "2023-04-23T16:35:37",
+   "date_unixtime": "1682255137",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "مووی کاتیج",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    "10 تا از بهترین آثار برای عاشقان خون، خونریزی، غارت و جنگ: ",
+    {
+     "type": "hashtag",
+     "text": "#معرفی‌فیلم"
+    },
+    "\n\n🎬 فیلم:\n\nThe Last Samurai (2003)\nBraveheart (1995)\nGladiator (2000)\nBen-Hur (1959)\nTroy (2004)\n\n📺 سریال:\nGame of Thrones\nThe last kingdom\nSpartacus\nVikings\nWitcher"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "10 تا از بهترین آثار برای عاشقان خون، خونریزی، غارت و جنگ: "
+    },
+    {
+     "type": "hashtag",
+     "text": "#معرفی‌فیلم"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n🎬 فیلم:\n\nThe Last Samurai (2003)\nBraveheart (1995)\nGladiator (2000)\nBen-Hur (1959)\nTroy (2004)\n\n📺 سریال:\nGame of Thrones\nThe last kingdom\nSpartacus\nVikings\nWitcher"
+    }
+   ]
+  },
+  {
+   "id": 444735,
+   "type": "message",
+   "date": "2023-05-03T19:26:34",
+   "date_unixtime": "1683129394",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "سعید فردا برا نهار خواستی بخوری\nقرمه سبزی امشب یاسین رو گرفتیم\nمن و امیر مهدی هم نهار سلف رو داریم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سعید فردا برا نهار خواستی بخوری\nقرمه سبزی امشب یاسین رو گرفتیم\nمن و امیر مهدی هم نهار سلف رو داریم"
+    }
+   ]
+  },
+  {
+   "id": 444736,
+   "type": "message",
+   "date": "2023-05-03T19:55:19",
+   "date_unixtime": "1683131119",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "اهان باز ببینم اگه کونم بکشه یه چیزی میپزم نشد هم اونو میارم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "اهان باز ببینم اگه کونم بکشه یه چیزی میپزم نشد هم اونو میارم"
+    }
+   ]
+  },
+  {
+   "id": 444737,
+   "type": "message",
+   "date": "2023-05-03T19:55:22",
+   "date_unixtime": "1683131122",
+   "edited": "2023-05-03T20:00:50",
+   "edited_unixtime": "1683131450",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "دمت گرم😘",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "دمت گرم😘"
+    }
+   ]
+  },
+  {
+   "id": 444773,
+   "type": "message",
+   "date": "2023-05-04T14:06:04",
+   "date_unixtime": "1683196564",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://youtu.be/zI4PqBDg3rE"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://youtu.be/zI4PqBDg3rE"
+    }
+   ]
+  },
+  {
+   "id": 444792,
+   "type": "message",
+   "date": "2023-05-05T18:40:20",
+   "date_unixtime": "1683299420",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Yosuf",
+   "title": "Tren 200mg",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 163,
+   "text": [
+    {
+     "type": "text_link",
+     "text": "🎧 آهنگیفای: جستجوی موزیک",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "text_link",
+     "text": "🎧 آهنگیفای: جستجوی موزیک",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 445236,
+   "type": "message",
+   "date": "2023-05-08T21:31:55",
+   "date_unixtime": "1683568915",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "انجمن مالی ایران",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 720,
+   "height": 1280,
+   "text": [
+    {
+     "type": "bold",
+     "text": "✅👈نخستین نشست علمی\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#بورس_و_دانشگاه"
+    },
+    {
+     "type": "bold",
+     "text": "\n\n✅👈با حضور ریاست محترم سازمان بورس؛ جناب آقای "
+    },
+    {
+     "type": "hashtag",
+     "text": "#دکتر_عشقی"
+    },
+    {
+     "type": "bold",
+     "text": "\n\n◀️زمان : چهارشنبه ۲۰ اردیبهشت ماه\n\n◀️ ساعت ۱۳ الی ۱۵:۳۰\n\n◀️مکان : سالن همایش‌های ثامن دانشکده مدیریت دانشگاه تهران\n\nدر این نشست نیازهای پژوهشی و کاربردی مورد نیاز سازمان بورس و بازار سرمایه با دانشجویان مطرح خواهد شد و پیرامون ارتقا و بهبود ارتباط سازمان بورس و دانشجویان بحث و تبادل نظر خواهیم کرد.\n\n\nحضور برای عموم دانشجویان و پژوهشگران آزاد می‌باشد و به جهت ظرفیت محدود؛ ثبت نام عزیزان متقاضی حضور در این نشست الزامیست:\n\nلینک ثبت نام:\n"
+    },
+    {
+     "type": "link",
+     "text": "https://b2n.ir/Bourse_University"
+    },
+    {
+     "type": "bold",
+     "text": "\n\n"
+    },
+    {
+     "type": "mention",
+     "text": "@IFSA1"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "✅👈نخستین نشست علمی\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#بورس_و_دانشگاه"
+    },
+    {
+     "type": "bold",
+     "text": "\n\n✅👈با حضور ریاست محترم سازمان بورس؛ جناب آقای "
+    },
+    {
+     "type": "hashtag",
+     "text": "#دکتر_عشقی"
+    },
+    {
+     "type": "bold",
+     "text": "\n\n◀️زمان : چهارشنبه ۲۰ اردیبهشت ماه\n\n◀️ ساعت ۱۳ الی ۱۵:۳۰\n\n◀️مکان : سالن همایش‌های ثامن دانشکده مدیریت دانشگاه تهران\n\nدر این نشست نیازهای پژوهشی و کاربردی مورد نیاز سازمان بورس و بازار سرمایه با دانشجویان مطرح خواهد شد و پیرامون ارتقا و بهبود ارتباط سازمان بورس و دانشجویان بحث و تبادل نظر خواهیم کرد.\n\n\nحضور برای عموم دانشجویان و پژوهشگران آزاد می‌باشد و به جهت ظرفیت محدود؛ ثبت نام عزیزان متقاضی حضور در این نشست الزامیست:\n\nلینک ثبت نام:\n"
+    },
+    {
+     "type": "link",
+     "text": "https://b2n.ir/Bourse_University"
+    },
+    {
+     "type": "bold",
+     "text": "\n\n"
+    },
+    {
+     "type": "mention",
+     "text": "@IFSA1"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 445283,
+   "type": "service",
+   "date": "2023-05-10T14:46:54",
+   "date_unixtime": "1683717414",
+   "actor": "MiladAghazade",
+   "actor_id": "user97909706",
+   "action": "phone_call",
+   "discard_reason": "missed",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 445296,
+   "type": "message",
+   "date": "2023-05-10T17:03:00",
+   "date_unixtime": "1683725580",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Xanemusic",
+   "title": "Moth To a Flame x After Hours (TikTok Edit) (Remix)",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 309,
+   "text": [
+    {
+     "type": "text_link",
+     "text": "🎧 آهنگیفای: جستجوی موزیک",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "text_link",
+     "text": "🎧 آهنگیفای: جستجوی موزیک",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 445748,
+   "type": "message",
+   "date": "2023-05-19T01:17:20",
+   "date_unixtime": "1684446440",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "Elvin Mirzezade",
+   "title": "Düşün Meni | Jonmusic.ir",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 212,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 446035,
+   "type": "message",
+   "date": "2023-05-27T19:36:37",
+   "date_unixtime": "1685203597",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "2tci",
+   "title": "سميني عاشق مجنون",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 265,
+   "text": [
+    {
+     "type": "text_link",
+     "text": "🎧 آهنگیفای: جستجوی موزیک",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "text_link",
+     "text": "🎧 آهنگیفای: جستجوی موزیک",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 446835,
+   "type": "message",
+   "date": "2023-06-13T14:53:23",
+   "date_unixtime": "1686655403",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "crazy_._clip",
+   "title": "tarkibi ep2",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 146,
+   "text": "ریمیکس کامل پست بالایی👆🏽🖤",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ریمیکس کامل پست بالایی👆🏽🖤"
+    }
+   ]
+  },
+  {
+   "id": 448019,
+   "type": "message",
+   "date": "2023-06-29T01:43:15",
+   "date_unixtime": "1687990395",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "@ey_elahe_naz",
+   "title": "دانش ؛ آرمین برمایه - کالیدور",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 342,
+   "text": [
+    {
+     "type": "text_link",
+     "text": "🎧 آهنگیفای: جستجوی موزیک",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "text_link",
+     "text": "🎧 آهنگیفای: جستجوی موزیک",
+     "href": "https://t.me/ahangify_bot?start=ref_ahaudio"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 448020,
+   "type": "message",
+   "date": "2023-06-29T09:58:41",
+   "date_unixtime": "1688020121",
+   "edited": "2023-06-29T09:59:28",
+   "edited_unixtime": "1688020168",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "عموغلی\nبربری خریدم بخورین اگه موند بزارین یخچال خراب میشه",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "عموغلی\nبربری خریدم بخورین اگه موند بزارین یخچال خراب میشه"
+    }
+   ]
+  },
+  {
+   "id": 448126,
+   "type": "message",
+   "date": "2023-07-01T19:09:23",
+   "date_unixtime": "1688225963",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": [
+    "بالاتر از \nخ زرتشت\nآرایشمحمد \nته پاساژ\n",
+    {
+     "type": "phone",
+     "text": "09302493256"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "بالاتر از \nخ زرتشت\nآرایشمحمد \nته پاساژ\n"
+    },
+    {
+     "type": "phone",
+     "text": "09302493256"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 448127,
+   "type": "message",
+   "date": "2023-07-01T19:09:50",
+   "date_unixtime": "1688225990",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": [
+    "Zartosht St\n",
+    {
+     "type": "link",
+     "text": "https://maps.app.goo.gl/pqzjS2ySJkHfYyzg9"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Zartosht St\n"
+    },
+    {
+     "type": "link",
+     "text": "https://maps.app.goo.gl/pqzjS2ySJkHfYyzg9"
+    }
+   ]
+  },
+  {
+   "id": 448131,
+   "type": "message",
+   "date": "2023-07-01T20:51:06",
+   "date_unixtime": "1688232066",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "خدایی ارزشی وار اوزاغلیقی",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "خدایی ارزشی وار اوزاغلیقی"
+    }
+   ]
+  },
+  {
+   "id": 448132,
+   "type": "message",
+   "date": "2023-07-01T20:51:30",
+   "date_unixtime": "1688232090",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 7,
+   "width": 720,
+   "height": 1280,
+   "text": "بتر فضاسی وار",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "بتر فضاسی وار"
+    }
+   ]
+  },
+  {
+   "id": 448133,
+   "type": "message",
+   "date": "2023-07-01T20:59:38",
+   "date_unixtime": "1688232578",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "دقیقا و خیلی با اخلاق \nو احترام ب مشتری",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "دقیقا و خیلی با اخلاق \nو احترام ب مشتری"
+    }
+   ]
+  },
+  {
+   "id": 448134,
+   "type": "message",
+   "date": "2023-07-01T21:05:05",
+   "date_unixtime": "1688232905",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "بگو دانشجوییی",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "بگو دانشجوییی"
+    }
+   ]
+  },
+  {
+   "id": 448135,
+   "type": "message",
+   "date": "2023-07-01T21:05:09",
+   "date_unixtime": "1688232909",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "تخفیف بده",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "تخفیف بده"
+    }
+   ]
+  },
+  {
+   "id": 448136,
+   "type": "message",
+   "date": "2023-07-01T21:13:20",
+   "date_unixtime": "1688233400",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "میام میحرفیم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "میام میحرفیم"
+    }
+   ]
+  },
+  {
+   "id": 448137,
+   "type": "message",
+   "date": "2023-07-01T21:13:42",
+   "date_unixtime": "1688233422",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "خیلی باحال بود ولی",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "خیلی باحال بود ولی"
+    }
+   ]
+  },
+  {
+   "id": 448138,
+   "type": "message",
+   "date": "2023-07-01T21:13:49",
+   "date_unixtime": "1688233429",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "😂😂👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "😂😂👍"
+    }
+   ]
+  },
+  {
+   "id": 448235,
+   "type": "message",
+   "date": "2023-07-05T11:31:11",
+   "date_unixtime": "1688544071",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "title": "Irem Deric i_ Kacin Kurasi",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 207,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 448809,
+   "type": "message",
+   "date": "2023-07-15T17:31:04",
+   "date_unixtime": "1689429664",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "performer": "[ناجی موزیک - Www.NajiRemix.IR]",
+   "title": "Ali Sorena Habib - Mard Tanha Remix [ناجی موزیک - Www.NajiRemix.IR]",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 300,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 448825,
+   "type": "message",
+   "date": "2023-07-16T14:02:14",
+   "date_unixtime": "1689503534",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "forwarded_from": "Saeed",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 592,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 448826,
+   "type": "message",
+   "date": "2023-07-16T14:02:22",
+   "date_unixtime": "1689503542",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "اگه بود جفتشم بگیر",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "اگه بود جفتشم بگیر"
+    }
+   ]
+  },
+  {
+   "id": 448827,
+   "type": "message",
+   "date": "2023-07-16T14:02:34",
+   "date_unixtime": "1689503554",
+   "edited": "2023-07-16T14:18:20",
+   "edited_unixtime": "1689504500",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "دمت گرم😘❤",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "دمت گرم😘❤"
+    }
+   ]
+  },
+  {
+   "id": 449157,
+   "type": "message",
+   "date": "2023-07-27T20:00:07",
+   "date_unixtime": "1690475407",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "MiladAghazade",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.phind.com/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://www.phind.com/"
+    }
+   ]
+  },
+  {
+   "id": 449158,
+   "type": "message",
+   "date": "2023-07-27T20:00:07",
+   "date_unixtime": "1690475407",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "MiladAghazade",
+   "text": "تو این سایته برو",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "تو این سایته برو"
+    }
+   ]
+  },
+  {
+   "id": 449159,
+   "type": "message",
+   "date": "2023-07-27T20:00:07",
+   "date_unixtime": "1690475407",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "MiladAghazade",
+   "text": "Use Best Mode اونجا وسطا هستش تیکش رو بزن تا جوابای چت جی پی تی 4 میده محدودیت 30 تا سوال توی 6 ساعت رو داره",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Use Best Mode اونجا وسطا هستش تیکش رو بزن تا جوابای چت جی پی تی 4 میده محدودیت 30 تا سوال توی 6 ساعت رو داره"
+    }
+   ]
+  },
+  {
+   "id": 449160,
+   "type": "message",
+   "date": "2023-07-27T20:00:07",
+   "date_unixtime": "1690475407",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "MiladAghazade",
+   "text": [
+    "برای ثبت نام ایمیلشم برو از این سایته که بلدی کار کردن باهاش رو ",
+    {
+     "type": "link",
+     "text": "https://smailpro.com/advanced"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "برای ثبت نام ایمیلشم برو از این سایته که بلدی کار کردن باهاش رو "
+    },
+    {
+     "type": "link",
+     "text": "https://smailpro.com/advanced"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 449161,
+   "type": "message",
+   "date": "2023-07-27T20:00:07",
+   "date_unixtime": "1690475407",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "MiladAghazade",
+   "text": "هر وقت به محدودیت 30 تایی رسیدی دوباره از اول با ایمیل جدید از این سایته بگیر ثبت نام کن",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "هر وقت به محدودیت 30 تایی رسیدی دوباره از اول با ایمیل جدید از این سایته بگیر ثبت نام کن"
+    }
+   ]
+  },
+  {
+   "id": 449174,
+   "type": "message",
+   "date": "2023-07-28T00:11:37",
+   "date_unixtime": "1690490497",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "forwarded_from": "MMDLeecher Help",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "application/vnd.android.package-archive",
+   "text": [
+    "🔥 نسخه جدید ویرایش شده برنامه v2rayF\n📟 ورژن : 1.8.3\n🔬 مخصوص تمامی پردازنده ها\n\n",
+    {
+     "type": "mention",
+     "text": "@MMDLeecherHelp"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🔥 نسخه جدید ویرایش شده برنامه v2rayF\n📟 ورژن : 1.8.3\n🔬 مخصوص تمامی پردازنده ها\n\n"
+    },
+    {
+     "type": "mention",
+     "text": "@MMDLeecherHelp"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 449211,
+   "type": "message",
+   "date": "2023-07-30T21:36:13",
+   "date_unixtime": "1690740373",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "سعید داداش شماره کارت میدی؟",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سعید داداش شماره کارت میدی؟"
+    }
+   ]
+  },
+  {
+   "id": 449212,
+   "type": "message",
+   "date": "2023-07-30T22:27:32",
+   "date_unixtime": "1690743452",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "عشقم بزن اسپیلیت",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "عشقم بزن اسپیلیت"
+    }
+   ]
+  },
+  {
+   "id": 449213,
+   "type": "message",
+   "date": "2023-07-30T22:32:28",
+   "date_unixtime": "1690743748",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "نه زیاده این شماره کارت بده بزنم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "نه زیاده این شماره کارت بده بزنم"
+    }
+   ]
+  },
+  {
+   "id": 449214,
+   "type": "message",
+   "date": "2023-07-30T22:39:19",
+   "date_unixtime": "1690744159",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "ول کن قاغا بزن اونجا هی وسایل میخریم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ول کن قاغا بزن اونجا هی وسایل میخریم"
+    }
+   ]
+  },
+  {
+   "id": 449215,
+   "type": "message",
+   "date": "2023-07-30T22:40:10",
+   "date_unixtime": "1690744210",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "چم هر جور راحتی ولی خب زیاده بدی من بزنم راحتترم \nهر جور صلاحه",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "چم هر جور راحتی ولی خب زیاده بدی من بزنم راحتترم \nهر جور صلاحه"
+    }
+   ]
+  },
+  {
+   "id": 449216,
+   "type": "message",
+   "date": "2023-07-30T22:53:01",
+   "date_unixtime": "1690744981",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "text": "بخدا تعارف ندارم باهات قاغا بزن اگه نیازداشتم میگم ازاونجا پاک کنی بفرستی نگران نباش",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "بخدا تعارف ندارم باهات قاغا بزن اگه نیازداشتم میگم ازاونجا پاک کنی بفرستی نگران نباش"
+    }
+   ]
+  },
+  {
+   "id": 449217,
+   "type": "message",
+   "date": "2023-07-30T22:53:31",
+   "date_unixtime": "1690745011",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "حله هر وقت نیاز شد بگو ❤️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "حله هر وقت نیاز شد بگو ❤️"
+    }
+   ]
+  },
+  {
+   "id": 449218,
+   "type": "message",
+   "date": "2023-07-30T22:54:38",
+   "date_unixtime": "1690745078",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "این برنامه رو خیلی دوس دارم",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "این برنامه رو خیلی دوس دارم"
+    }
+   ]
+  },
+  {
+   "id": 449219,
+   "type": "message",
+   "date": "2023-07-30T22:54:52",
+   "date_unixtime": "1690745092",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "همش رفت تو کون امیر مهدی😂😂😂😂😂🤣🤣🤣🤣🤣🤣",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "همش رفت تو کون امیر مهدی😂😂😂😂😂🤣🤣🤣🤣🤣🤣"
+    }
+   ]
+  },
+  {
+   "id": 449220,
+   "type": "message",
+   "date": "2023-07-30T22:56:08",
+   "date_unixtime": "1690745168",
+   "from": "MiladAghazade",
+   "from_id": "user97909706",
+   "text": "بازم هر وقت نیاز شد بگو من کارت ب کارت میزنم اینو پاک می‌کنم🤦‍♂😁",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "بازم هر وقت نیاز شد بگو من کارت ب کارت میزنم اینو پاک می‌کنم🤦‍♂😁"
+    }
+   ]
+  },
+  {
+   "id": 449221,
+   "type": "message",
+   "date": "2023-07-31T06:10:36",
+   "date_unixtime": "1690771236",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "reply_to_message_id": 449217,
+   "text": "چشم الر وار❤😍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "چشم الر وار❤😍"
+    }
+   ]
+  },
+  {
+   "id": 449222,
+   "type": "message",
+   "date": "2023-07-31T06:10:46",
+   "date_unixtime": "1690771246",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "reply_to_message_id": 449219,
+   "text": "اوففف دلی اولار دا😂😂😂😂😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "اوففف دلی اولار دا😂😂😂😂😂"
+    }
+   ]
+  },
+  {
+   "id": 449223,
+   "type": "message",
+   "date": "2023-07-31T06:10:59",
+   "date_unixtime": "1690771259",
+   "from": "Saeed",
+   "from_id": "user133102141",
+   "reply_to_message_id": 449220,
+   "text": "حله حتما",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "حله حتما"
+    }
+   ]
+  }
+ ]
+}

@@ -5,3 +5,8 @@ in this lessson we are going to use streamlit==1.25.0 version.
 
 for runing our script, we can use the following code:
 streamlit run the name of the code example: streamlit run run.py 
+
+# we can use emoji cheat sheet to find the code for each emoji that we want to add to our dashboard
+also we can go and find the code for related emoji from :
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+
