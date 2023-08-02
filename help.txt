@@ -1,0 +1,7 @@
+streamlit is a python library which is used to create dashboard quickly.
+you can go the API refrences in documentation and checkout all related codes accirding to your needs.
+
+in this lessson we are going to use streamlit==1.25.0 version.
+
+for runing our script, we can use the following code:
+streamlit run the name of the code example: streamlit run run.py 
